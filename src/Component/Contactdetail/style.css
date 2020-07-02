@@ -1,0 +1,33 @@
+.table td, .table th {
+    font-size: 12px;
+    padding: 10px !important;
+}
+
+.profile button{
+    width:80px !important;
+    height: 30px !important;
+    padding: 0px;
+}
+
+.table input{
+    padding: 0px;
+}
+
+.table{
+    padding: 0px;
+}
+
+.save1{
+    width: 300px;
+    border-radius: 0px !important;
+}
+
+.em{
+    background-color: #56B17F !important;
+    border:none;
+}
+
+.pencil:focus{
+    border:none;
+    outline:none !important;
+}
